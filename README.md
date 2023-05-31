@@ -16,4 +16,4 @@ Thonny Python: https://thonny.org/
 4. Drag files from the code to your pico w files
 5. Edit settings.toml with password etc
 6. Run the code by opening web-code.py in Thonny **(tested and recomended for first run)** or rename it to main.py to automaticly start code when inserted in pc (untested).
-7. Open ip adress in chrome (on your phone) sent in shell (Inside thonny)
+7. Open ip adress in chrome (on your phone on same wifi) sent in shell (Inside thonny)
