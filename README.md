@@ -5,7 +5,7 @@ Only **tested** with Swedish keyboard, circuit python 8.0.3 and pin code as log 
 
 **SECURITY IS NOT GUARANTEED, USE AT YOUR OWN RISK!**
 
-# Using it!
+# Using it! (maybe not recommended)
 ## requires:
 Circuit python pico w: https://circuitpython.org/board/raspberry_pi_pico_w/
 Thonny Python: https://thonny.org/ 
