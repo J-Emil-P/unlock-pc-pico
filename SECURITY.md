@@ -9,6 +9,7 @@
 
 ## Reporting a Vulnerability
 
-Report security/privacy problems that are outside local internet to my email: emil.j.pettersson@outlook.com
-report local wifi issues on the Issues tab
+Report security/privacy problems that are **outside local** internet to my email: emil.j.pettersson@outlook.com
+
+Report local wifi issues on the Issues tab
 ### Report other Issues on the Issues tab
