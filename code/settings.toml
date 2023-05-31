@@ -1,0 +1,9 @@
+# Password etc, can not be opened in thonny
+settings_found_message="Settings found..."
+CIRCUITPY_WIFI_SSID="WIFI NAME HERE"
+CIRCUITPY_WIFI_PASSWORD="WIFI PASSWORD HERE"
+WEB_PIN_CODE="PIC CODE FOR WEB CONTROL HERE"
+COMPUTER_PIN_CODE="PIN CODE ON PC HERE"
+
+#Advanced users only:
+#CIRCUITPY_WEB_API_PASSWORD="API_PASSWORD_HERE"
