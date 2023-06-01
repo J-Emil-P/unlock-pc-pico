@@ -12,19 +12,19 @@ website_html = """<!DOCTYPE html>
     <title>Pico PC control</title>
     <h1>Pico PC control</h1>
     <p>Powered by CircuitPython</p>
-    <p>Made by <a href="https://example.com" target="_blank">Me :)</a> </p>
+    <p>Made by <a href="https://github.com/Emil-p-kod" target="_blank">Emil Pettersson</a> </p>
     <h1>Control the power of pc</h1>
-    <p>The computer is currently:
-    <span style="color: rgb(255, 67, 20);">Something</span></p>
+    <!--<p>The computer is currently:-->
+    <!--<span style="color: rgb(255, 67, 20);">Something</span></p>-->
     
     <br>
     
-    <form accept-charset="utf-8" method="POST">
+    <!--<form accept-charset="utf-8" method="POST">
     <input type="password" id="Power_PC_input" name="Power_PC_input" placeholder="Password required">
     <input type="hidden" id="Power_PC_time" name="Power_PC_time">
-    <button class="button" id="Power_PC_button" name="Power_PC_button" type="submit" value="on">Turn on PC</button></a></p></form>
+    <button class="button" id="Power_PC_button" name="Power_PC_button" type="submit" value="on">Turn on PC</button></a></p></form>-->
 
-    <br>
+    <!--<br>-->
 
     <form accept-charset="utf-8" method="POST">
     <input type="password" id="Sign_in_input" name="Sign_in_input" placeholder="Password required">
@@ -39,7 +39,7 @@ website_html = """<!DOCTYPE html>
     <button class="button" id="Lock_button" name="Lock_button" type="submit" value="on">Lock</button></a></p></form>
     
     <script>
-        document.getElementById("Power_PC_time").value = Date.now()
+        <!--document.getElementById("Power_PC_time").value = Date.now()-->
         document.getElementById("Sign_in_time").value = Date.now()
         document.getElementById("Lock_time").value = Date.now()
     </script>
