@@ -1,5 +1,5 @@
 # unlock-pc-pico
-Uses raspberry pi pico w with circuitpython to unlock/lock your pc
+Uses raspberry pi pico w with circuitpython to unlock/lock your pc with another device (over wifi)
 
 Only **tested** with Swedish keyboard, circuit python 8.0.3 and pin code as log in
 
