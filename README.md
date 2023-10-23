@@ -9,7 +9,7 @@ Only **tested** with Swedish keyboard, circuit python 8.0.3 and pin code as log 
 ## warnings and disclaimers
 * Only use on your own wifi
 * Do NOT use on wifi networks without a password
-* Bad actors can control your computer if they get physical or digital (via wifi) access
+* Bad actors can control your computer if they get physical or digital access
 * Do NOT port forward the pico to the internet
 ## requires:
 Circuit python pico w: https://circuitpython.org/board/raspberry_pi_pico_w/
