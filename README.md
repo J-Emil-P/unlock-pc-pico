@@ -5,7 +5,6 @@ Only **tested** with Swedish keyboard, circuit python 8.0.3 and pin code as log 
 
 **SECURITY IS NOT GUARANTEED, USE AT YOUR OWN RISK!**
 
-# Using it!
 ## warnings and disclaimers
 * Only use on your own wifi
 * Do NOT use on wifi networks without a password
