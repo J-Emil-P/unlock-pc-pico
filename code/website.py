@@ -12,7 +12,7 @@ website_html = """<!DOCTYPE html>
     <title>Pico PC control</title>
     <h1>Pico PC control</h1>
     <p>Powered by CircuitPython</p>
-    <p>Made by <a href="emilpettersson.com" target="_blank">Emil Pettersson</a> </p>
+    <p>Made by <a href="https://emilpettersson.com/" target="_blank">Emil Pettersson</a> </p>
     <h1>Control the power of pc</h1>
     <!--<p>The computer is currently:-->
     <!--<span style="color: rgb(255, 67, 20);">Something</span></p>-->
