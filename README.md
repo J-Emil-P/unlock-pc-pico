@@ -2,15 +2,16 @@
 Uses raspberry pi pico w with circuitpython to unlock/lock your pc with another device (over wifi)
 
 Only **tested** with Swedish keyboard and circuit python 8.0.3
-**Does not work with windows password, only works with windows pin code login**
 
-**SECURITY IS NOT GUARANTEED, USE AT YOUR OWN RISK!**
+**Does not work with windows password, only works with windows pin code login**
 
 ## warnings and disclaimers
 * Only use on your own wifi
 * Do NOT use on wifi networks without a password
 * Bad actors can control your computer if they get physical or digital access
 * Do NOT port forward the pico to the internet
+* **SECURITY IS NOT GUARANTEED, USE AT YOUR OWN RISK!**
+
 ## requires:
 Circuit python pico w: https://circuitpython.org/board/raspberry_pi_pico_w/
 Thonny Python: https://thonny.org/ 
